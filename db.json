@@ -7,28 +7,16 @@
       "price": 7.99
     },
     {
-      "id": 6,
-      "image": "./images/spaghettios.jpeg",
-      "name": "Spaghettios",
-      "price": 2.99
+      "id": 3,
+      "image": "./images/ben-jerry.png",
+      "name": "Ben & Jerry's",
+      "price": 7.99
     },
     {
-      "id": 8,
-      "image": "./images/cheese.webp",
-      "name": "Shredded Cheese",
-      "price": 5.99
-    },
-    {
-      "id": 12,
-      "image": "./images/seltzer.jpeg",
-      "name": "Seltzer Water",
-      "price": 1.99
-    },
-    {
-      "id": 13,
-      "image": "./images/beer.jpeg",
-      "name": "Beer",
-      "price": 15.99
+      "id": 4,
+      "image": "./images/ben-jerry.png",
+      "name": "Ben & Jerry's",
+      "price": 7.99
     }
   ]
 }
